@@ -1,2 +1,2 @@
 # Machine_Learning_CodingDojo
-I will upload the assignments I complete as part of my Data Science course, specifically focusing on Machine Learning topics
+Welcome to my GitHub repository! Here you will find the assignments I completed as part of my Data Science course, with a specific focus on Machine Learning topics. Through these assignments, I have gained a deep understanding of various Machine Learning algorithms and techniques, and I am excited to share my work with others in the community. Whether you are an experienced Data Scientist or just starting out, I hope you find value in the work that I have uploaded and feel free to share your feedback and suggestions.
